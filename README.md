@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Yule</h1>
-<h3 align="center">A Web Development student focused on learning ReactJS Stack</h3>
+<h3 align="center">A Web Development student focused on learning the JS Stack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasyule22" alt="lucasyule22" /> </p>
 
 - 🔭 I’m currently studying... 
