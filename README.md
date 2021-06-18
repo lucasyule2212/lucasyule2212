@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Yule</h1>
-<h3 align="center">A Web Developer student focused on learning ReactJS Stack</h3>
+<h3 align="center">A Web Development student focused on learning ReactJS Stack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasyule22" alt="lucasyule22" /> </p>
 
 - 🔭 I’m currently studying... 
-
 - 👨‍💻 All of my projects are available here, at GitHub! (Soon in a Portfolio Website😜)
-- 
+- ⚡ I'm avaiable too at [LinkedIn](https://www.linkedin.com/in/lucasyulerocha/)
 - 📫 How to reach me **lyrma@cin.ufpe.br**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasyule2212&show_icons=true&theme=dracula)
