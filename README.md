@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasyule22" alt="lucasyule22" /> </p>
 
 - 🔭 I’m currently studying... 
-- 👨‍💻 All of my projects are available here, at GitHub! (Soon in a Portfolio Website😜)
+- 👨‍💻 All of my projects are available here, at GitHub!
 - ⚡ I'm avaiable too at [LinkedIn](https://www.linkedin.com/in/lucasyulerocha/)
 - 📫 How to reach me **lyrma@cin.ufpe.br**
 
