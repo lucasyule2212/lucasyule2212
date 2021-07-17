@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Yule</h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Yule</h1>
 <h3 align="center">A Web Development student focused on learning the JS Stack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasyule22" alt="lucasyule22" /> </p>
 
-- 🔭 I’m currently studying... 
+- 🔭 I’m currently studying Front-End techs... 
 - 👨‍💻 All of my projects are available here, at GitHub!
 - ⚡ I'm avaiable too at [LinkedIn](https://www.linkedin.com/in/lucasyulerocha/)
 - 📫 How to reach me **lyrma@cin.ufpe.br**
