@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Yule</h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32">, I'm Lucas Yule</h1>
 <h3 align="center">A Web Development student focused on learning the JS Stack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasyule22" alt="lucasyule22" /> </p>
 
