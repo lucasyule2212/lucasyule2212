@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi everyone! 👋, I'm Lucas Yule</h1>
+<h1 align="center">Hi everyone! 👋 I'm Lucas Yule</h1>
 
 <div>
      <h3 align="center">Full Stack React & Node developer</h3>
@@ -12,8 +12,6 @@
      </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasyule22" alt="lucasyule22" /> </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <li>🔭 I’m always studying and improving the latests Front-End techs! </li>
 <li>👨‍💻 All of my personal projects are available here, at GitHub!</li>
