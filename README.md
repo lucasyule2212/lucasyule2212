@@ -15,9 +15,8 @@
 
 ```diff
 + 🔭 I’m always studying and mastering the latests techs from the javascript ecossystem
-+ 👨‍💻 All of my personal projects are available here!
-!⚡ I'm currently developing my personal web application!
-- 📫 Feel free to get in touch
++ 👨‍💻 I'm currently developing some personal projects!
+! 📫 Feel free to get in touch
 ```
 
 <div align="center">
