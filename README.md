@@ -2,7 +2,7 @@
 <h1 align="center">Hi everyone! 👋 I'm Lucas Yule</h1>
 
 <div align="left">
-     <h3 align="center">Full Stack React & Node developer</h3>
+     <h3 align="center">Full Stack Engineer</h3>
       <div align='center' style='display:inline-block;margin-bottom:15px'>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
