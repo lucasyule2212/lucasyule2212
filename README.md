@@ -15,6 +15,7 @@
 ```diff
 + 🔭 I’m always studying and mastering JS/TS ecossystem!
 + 👨‍💻 I venture in develop personal projects to study new techs.
+- 🛠️ Soon I'll be studying: Python, Web3, Solidity.
 ! 📫 Feel free to get in touch!
 ```
 
