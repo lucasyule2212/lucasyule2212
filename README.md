@@ -14,9 +14,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasyule22" alt="lucasyule22" /> </p>
 
 ```diff
-+ 🔭 I’m always studying and mastering the cutting edge techs, mainly of the JS ecossystem
-+ 👨‍💻 I'm currently developing some personal projects!
-! 📫 Feel free to get in touch
++ 🔭 I’m always studying and mastering JS/TS ecossystem!
++ 👨‍💻 I venture in develop personal projects to study new techs.
+! 📫 Feel free to get in touch!
 ```
 
 <div align="center">
