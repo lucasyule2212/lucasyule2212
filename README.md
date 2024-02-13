@@ -24,13 +24,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=lucasyule2212&theme=black-ice&hide_border=true&background=DD272700" />
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasyule2212&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasyule2212" />
-</a>
-
 ##
 
 <h3 align="left">Get in touch!👇</h3>
