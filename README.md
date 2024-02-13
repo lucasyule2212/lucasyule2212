@@ -10,8 +10,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   </div>
      </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasyule22" alt="lucasyule22" /> </p>
+<br>     
 
 ```diff
 + 🔭 I’m always studying and mastering JS/TS ecossystem!
