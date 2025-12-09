@@ -15,7 +15,7 @@
 ```diff
 + 🔭 I’m always studying and mastering JS/TS ecosystem!
 + 👨‍💻 I venture into developing personal projects to study new techs.
-- 🛠️ Currently studying: Design Engineering.
+- 🛠️ Currently studying: Design Engineering and AI Engineering
 ! 📫 Feel free to get in touch!
 ```
 
