@@ -13,10 +13,9 @@
 <br>     
 
 ```diff
-+ 🔭 I’m always studying and mastering JS/TS ecosystem!
-+ 👨‍💻 I venture into developing personal projects to study new techs.
-- 🛠️ Currently studying: Design Engineering and AI Engineering
-! 📫 Feel free to get in touch!
++ AI Product Engineer and Founding Head of Development.
+! Building AI-native products with TypeScript, Next.js, agents, retrieval, workflow automation, Human-in-the-loop.
+! Product Taste & design engineering.
 ```
 
 <div align="center">
